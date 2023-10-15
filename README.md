@@ -5,7 +5,7 @@ Specialization Thesis in Data Engineering - HCMC University of Technology and Ed
 |Họ và tên |MSSV |Công việc|
 |---|---|---|
 |Vũ Trung Kiên|20133060||
-|Nguyễn Võ Song Toàn|20133072||
+|Nguyễn Võ Song Toàn|20133097||
 
 Mô tả thống kê về tập dữ liệu **dataset.cvs** sau khi xử lý dữ liệu
 - Số lượng mẫu: 24543
