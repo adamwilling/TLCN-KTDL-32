@@ -7,8 +7,7 @@ import pandas as pd
 url = 'https://www.nhatot.com'
 
 # Đọc file csv chứa danh sách các url
-list_of_urls = pd.read_csv('D:\\backup\\SinhVien4Nam\\TLCN\\TLCN-KTDL-32\\new_url.csv', header=None, names=['url'])
-
+list_of_urls = pd.read_csv('data/new_url.csv', header=None, names=['url'])
 # Tạo list chứa các url mới
 new_link = list_of_urls[:]
 
